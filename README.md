@@ -1,4 +1,4 @@
-# CECS 342 Lab 3 - Functional Languages with Erlang
+# CECS 342 Lab 3: Functional Languages with Erlang
 
 ## Assignment Description
 
